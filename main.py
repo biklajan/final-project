@@ -53,4 +53,4 @@ async def helpWithCom(ctx):
     await ctx.send("Команды: infoSite - даёт ссылку на сайт с методами переработки мусора; whatCanIDo - что ты можешь сделать для решения этой проблемы; howControlThis - как контролировать безопасноть экологии")
 
 
-bot.run("MTE1NTE2NTU2Njc5ODE0NzcwNQ.G7JNcS.ADmuHxLGPlZO933U-P7AaIWnbsYK91iSiUsPAM")
+bot.run("Your Token")
